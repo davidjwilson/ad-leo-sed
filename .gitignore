@@ -8,7 +8,7 @@ trappist-1/combined/trappist-1_sed_var_res_blya.ecsv
 #ignore trl files
 *.trl
 #infact ignore all ecsv files
-*.ecsv
+#*.ecsv
 #ignore phoenix ecsvs
 */phoenix_repo/*
 #ignore g+19 ir data
